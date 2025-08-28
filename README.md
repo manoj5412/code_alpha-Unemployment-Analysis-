@@ -88,8 +88,8 @@ How to Run:
 
 Clone the repository:
 
-git clone https://github.com/your-username/unemployment-analysis-python.git
-cd unemployment-analysis-python
+git clone [https://github.com/your-username/unemployment-analysis-python.git
+cd unemployment-analysis-python](https://github.com/manoj5412/code_alpha-Unemployment-Analysis-.git)
 
 
 Install dependencies:
